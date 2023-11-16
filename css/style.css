@@ -4,7 +4,6 @@
     font-family:'Source Sans Pro', sans-serif;
     color: #000000;
     grid-column: 2;
-
 }
 .h2 {
     text-align: center;
@@ -13,8 +12,6 @@
     font-family:'Source Sans Pro', sans-serif;
     padding-bottom: 10%;
 }
-
-
 *{
     margin:0;
     padding:0;
@@ -38,7 +35,6 @@ body{
     padding: 6%;
     height: 100%; 
     font-size: 78%;
-
 }
 
 p{
@@ -51,8 +47,6 @@ p{
     grid-template-columns: repeat(2, 1fr);
     
 }
-
-
 .columna{
 padding-left: 10px;
 }
