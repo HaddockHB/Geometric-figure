@@ -22,7 +22,7 @@ function squareAreaCalculate(){
 }
 
 
-  //CALCULO DEl PERIMETRO CIRCULO------------------------------------------------------------------------
+  //CALCULO DEl PERIMETRO CIRCULO
   function CP(radio){
     return Math.PI*2*radio;
 }
